@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Traning</string>
+    <string name="title_section1">BLE</string>
+    <string name="title_section2">RFID</string>
+    <string name="title_section3">Ultrasonic</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ble_scan">Scan</string>
+    <string name="rfid_read">RFID Read</string>
+    <string name="title_activity_rfidread">RFIDReadActivity</string>
+    <string name="tag_list">Tags Listed</string>
+
+</resources>
